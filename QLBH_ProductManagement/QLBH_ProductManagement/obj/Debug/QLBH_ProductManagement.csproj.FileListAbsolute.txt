@@ -1,0 +1,16 @@
+C:\Users\Administrator\source\repos\QLBH_ProductManagement\QLBH_ProductManagement\bin\Debug\QLBH_ProductManagement.exe.config
+C:\Users\Administrator\source\repos\QLBH_ProductManagement\QLBH_ProductManagement\bin\Debug\QLBH_ProductManagement.exe
+C:\Users\Administrator\source\repos\QLBH_ProductManagement\QLBH_ProductManagement\bin\Debug\QLBH_ProductManagement.pdb
+C:\Users\Administrator\source\repos\QLBH_ProductManagement\QLBH_ProductManagement\obj\Debug\QLBH_ProductManagement.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\source\repos\QLBH_ProductManagement\QLBH_ProductManagement\obj\Debug\QLBH_ProductManagement.Properties.Resources.resources
+C:\Users\Administrator\source\repos\QLBH_ProductManagement\QLBH_ProductManagement\obj\Debug\QLBH_ProductManagement.csproj.GenerateResource.Cache
+C:\Users\Administrator\source\repos\QLBH_ProductManagement\QLBH_ProductManagement\obj\Debug\QLBH_ProductManagement.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\QLBH_ProductManagement\QLBH_ProductManagement\obj\Debug\QLBH_ProductManagement.exe
+C:\Users\Administrator\source\repos\QLBH_ProductManagement\QLBH_ProductManagement\obj\Debug\QLBH_ProductManagement.pdb
+C:\Users\Administrator\source\repos\QLBH_ProductManagement\QLBH_ProductManagement\obj\Debug\QLBH_ProductManagement.frmInsertOrUpdateProduct.resources
+C:\Users\Administrator\source\repos\QLBH_ProductManagement\QLBH_ProductManagement\obj\Debug\QLBH_ProductManagement.frmProductManagement.resources
+C:\Users\Administrator\source\repos\QLBH_ProductManagement\QLBH_ProductManagement\obj\Debug\QLBH_ProductManagement.GUI.frmUserManagement.resources
+C:\Users\Administrator\source\repos\QLBH_ProductManagement\QLBH_ProductManagement\obj\Debug\QLBH_ProductManagement.GUI.ucFunctions.resources
+C:\Users\Administrator\source\repos\QLBH_ProductManagement\QLBH_ProductManagement\obj\Debug\QLBH_ProductManagement.GUI.frmFactoryManagement.resources
+C:\Users\Administrator\source\repos\QLBH_ProductManagement\QLBH_ProductManagement\obj\Debug\QLBH_ProductManagement.GUI.frmLogin.resources
+C:\Users\Administrator\source\repos\QLBH_ProductManagement\QLBH_ProductManagement\obj\Debug\QLBH_ProductManagement.GUI.frmMain.resources
